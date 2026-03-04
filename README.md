@@ -16,7 +16,7 @@ Simple inventory system using JavaScript to manage phones.
 
 ## 📸 Screenshot
 <p align="center">
-  <img src="screenshot.png.png" width="600"/>
+  <img src="screenshot.png" width="600"/>
 </p>
 
 ## 🌐 Live Demo
