@@ -15,7 +15,7 @@ Simple inventory system using JavaScript to manage phones.
 - Bootstrap
 
 ## 📸 Screenshot
-![Project Screenshot](screenshot.png)
+<img src="screenshot.png" width="600"/>
 
 ## 🌐 Live Demo
 https://Eslam-Mohamed-1892.github.io/inventory-system/
